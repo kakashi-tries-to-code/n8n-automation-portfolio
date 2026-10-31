@@ -1,6 +1,9 @@
-# Nimzlot Proto
+# Nimzlot Proto (Lead Gen and Personalized outreach system for Nimzlot)
 
 A prospect-discovery and enrichment workflow. It uses a Google Sheets row as a run request, searches for businesses using Apify, checks for websites, enriches contact details with Hunter.io, scrapes company websites, and asks an AI model to produce a personalized cold-email icebreaker.
+
+<img width="1270" height="743" alt="image" src="https://github.com/user-attachments/assets/3b48079c-72e6-40b5-a9a2-2853aad092c7" />
+
 
 ## Workflow at a glance
 
