@@ -2,6 +2,10 @@
 
 An AI-assisted invoice reminder workflow. It reads invoice rows from Google Sheets, calculates how long each invoice has been outstanding, checks Gmail conversation history, and uses an AI model to decide whether a staged follow-up should be sent.
 
+<img width="1348" height="573" alt="image" src="https://github.com/user-attachments/assets/4d337eb7-aba2-4b77-a4fb-2e2b0c0904f9" />
+
+
+
 ## Workflow at a glance
 
 ```mermaid
