@@ -2,6 +2,10 @@
 
 An n8n lead-intake and response workflow for RG YTP Solutions. It collects prospect requirements, assigns a budget-based lead rating, records the lead, generates a tailored email with an AI model, and sends follow-up notifications.
 
+<img width="1310" height="627" alt="image" src="https://github.com/user-attachments/assets/cb062829-980c-445d-9d09-ef2e608fa42e" />
+
+
+
 ## Workflow at a glance
 
 ```mermaid
