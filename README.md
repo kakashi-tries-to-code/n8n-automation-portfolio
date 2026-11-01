@@ -25,9 +25,12 @@ n8n-automation-portfolio/
 ├── nimzlot-proto/
 │   ├── README.md
 │   └── nimzlot-proto.json
-└── invoice-follow-up/
+├── invoice-follow-up/
+│   ├── README.md
+│   └── invoice-follow-up.json
+└── client-onboarding/
     ├── README.md
-    └── invoice-follow-up.json
+    └── client-onboarding.json
 ```
 
 ## Importing a workflow
