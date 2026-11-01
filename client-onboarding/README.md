@@ -2,6 +2,9 @@
 
 An n8n workflow that collects new-client details, generates a personalized welcome email with AI, sends it through Gmail, and creates a concise client profile summary in Google Sheets.
 
+<img width="1068" height="520" alt="Screenshot 2026-11-01 at 2 13 50 PM" src="https://github.com/user-attachments/assets/37f38049-0a7d-4030-a510-47a98af55b59" />
+
+
 ## Workflow at a glance
 
 ```mermaid
