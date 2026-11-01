@@ -11,6 +11,7 @@ A collection of workflow automation projects built with **n8n**, integrating AI,
 | [Lead Response](./lead-response/) | Captures and scores incoming leads, drafts a personalized response with AI, sends the email, and updates lead records. | n8n Forms, Google Sheets, OpenAI, Gmail, Slack |
 | [Nimzlot Proto](./nimzlot-proto/) | Finds prospects from spreadsheet criteria, enriches company/contact details, scrapes websites, and generates personalized icebreakers. | Google Sheets, Apify, Hunter.io, HTTP Request, HTML extraction, OpenAI |
 | [Invoice Follow-up](./invoice-follow-up/) | Reviews invoice age and email history, decides whether a reminder is appropriate, and sends staged follow-ups. | Google Sheets, Gmail, OpenAI |
+| [Client Onboarding](./client-onboarding/) | Collects client details, generates a personalized welcome email, and stores an AI-generated client profile summary. | n8n Forms, OpenAI, Gmail, Google Sheets |
 
 ## Repository structure
 
